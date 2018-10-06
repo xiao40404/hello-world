@@ -4,27 +4,11 @@ class Solution:
         :type s: str
         :rtype: int
         """
-        x = []
-        for ss in s:
-            if ss == 'I':
-                x.append(1)
-            if ss == 'V':
-                x.append(5)
-            if ss == 'X':
-                x.append(10)
-            if ss == 'L':
-                x.append(50)
-            if ss == 'C':
-                x.append(100)
-            if ss == 'D':
-                x.append(500)
-            if ss == 'M':
-                x.append(1000)
-            
-            a = 0
-            for i in range(len(x)-1):
-                if x[i]<x[i+1]:
-                    a = a-x[i]
-                else:
-                    a = a+x[i]
-        return a+x[-1]
+        D = {'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
+        a = 0
+        for i in range(len(s)-1):
+            if D[s[i]]<D[s[i+1]]:
+                a = a-D[s[i]]
+            else:
+                a = a+D[s[i]]
+        return a+D[s[-1]]
