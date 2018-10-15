@@ -6,7 +6,7 @@ class Solution:
         """
         stack = []
         for a in s:
-            if a == '(' or a == '[' or a =='{':
+            if a in ['(','[','{']:
                 stack.append(a)
             elif stack == []:
                 return False
