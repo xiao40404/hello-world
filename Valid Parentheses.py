@@ -5,18 +5,13 @@ class Solution:
         :rtype: bool
         """
         stack = []
+        dic = {']':'[',')':'(','}':'{'}
         for a in s:
-            if a in ['(','[','{']:
+            if a in dic.values():
                 stack.append(a)
-            elif stack == []:
-                return False
-            elif stack != []:
-                if a == ')' and stack.pop() != '(':
-                    return False
-                elif a == ']' and stack.pop() != '[':
-                    return False
-                elif a == '}' and stack.pop() != '{':
+            elif a in dic.keys():
+                if stack == [] or stack.pop() != dic[a]:
                     return False
             else:
                 return False
-        return stack == []
+        return not stack
