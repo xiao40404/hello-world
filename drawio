@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T07:21:07.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.6" etag="JioBc6lvDyio3vmejdWw" type="github"><diagram id="Rw1tucRjNC-tzBrsc0h_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-16T08:15:56.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zDtJIifumS9SFXBVArl7" version="15.9.6" type="github">
+  <diagram id="Rw1tucRjNC-tzBrsc0h_" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WvOAolYsXny6lTkRjb9e-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-31" target="WvOAolYsXny6lTkRjb9e-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-31" target="WvOAolYsXny6lTkRjb9e-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-31" value="村民表决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-34" target="WvOAolYsXny6lTkRjb9e-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-34" value="村集体向属地区政府提请申报试点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-39" value="同意后" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="119" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-40" target="WvOAolYsXny6lTkRjb9e-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-40" value="属地区政府审核项目试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-42" target="WvOAolYsXny6lTkRjb9e-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-42" value="属地区政府将试点方案报市规划和自然资源局" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-44" value="确定项目范围、面积等" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-46" value="委托有资质的规划编制机构编制试点方案" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="153.75" width="110" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-49" value="通过后" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="315" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-50" target="WvOAolYsXny6lTkRjb9e-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-50" target="WvOAolYsXny6lTkRjb9e-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-50" value="市规划和自然资源局转送市住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-52" value="根据意见形成项目试点方案" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-54" target="WvOAolYsXny6lTkRjb9e-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-54" value="市政府审定项目试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-60" value="同意后" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="565" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-61" target="WvOAolYsXny6lTkRjb9e-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-61" value="经市政府批复的试点方案项目" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-65" target="WvOAolYsXny6lTkRjb9e-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-65" target="WvOAolYsXny6lTkRjb9e-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="705" />
+              <mxPoint x="390" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-65" value="是否与现行控规矛盾？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="665" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-71" target="WvOAolYsXny6lTkRjb9e-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-71" value="属地区政府组织开展控规调规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-73" value="是" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="685" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-74" target="WvOAolYsXny6lTkRjb9e-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-74" target="WvOAolYsXny6lTkRjb9e-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-74" value="报市规划和自然资源局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-76" value="将非住宅用途调整为住宅（租赁住房）用地" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-78" target="WvOAolYsXny6lTkRjb9e-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-78" value="市规划和自然资源局、住房城乡建设局纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-86" value="否" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="785" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-87" target="WvOAolYsXny6lTkRjb9e-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-87" value="村集体向市规划和自然资源局行政主管部门申办规划许可、供地手续" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-91" target="WvOAolYsXny6lTkRjb9e-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-91" value="属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-93" target="WvOAolYsXny6lTkRjb9e-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-93" value="村集体自行确定项目建设运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-95" target="WvOAolYsXny6lTkRjb9e-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-95" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvOAolYsXny6lTkRjb9e-97" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
