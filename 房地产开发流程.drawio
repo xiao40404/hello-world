@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T07:56:48.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="vvOo2drzSHS1yZFnZ_kF" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T07:56:28.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XC13i2Pf44Vyod5kTZgD" version="15.9.6" type="github">
   <diagram id="O_8Gef8bSsG3YyjCZVvP" name="Page-1">
-    <mxGraphModel dx="2905" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2576" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,7 +621,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-208" target="GTG6F6J4O82Cw8e9boyh-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-208" value="用地规划许可证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-208" value="用地规划许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-210" target="GTG6F6J4O82Cw8e9boyh-212">
@@ -630,7 +630,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-210" value="土地确权" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-212" value="办理土地证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-212" value="办理土地证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-214" target="GTG6F6J4O82Cw8e9boyh-216">
@@ -687,7 +687,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-232" target="GTG6F6J4O82Cw8e9boyh-234">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-232" value="建设工程规划许可证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-232" value="建设工程规划许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1641" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-234" target="GTG6F6J4O82Cw8e9boyh-236">
@@ -699,7 +699,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-236" target="GTG6F6J4O82Cw8e9boyh-238">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-236" value="施工许可证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-236" value="施工许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1841" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-238" target="GTG6F6J4O82Cw8e9boyh-240">
@@ -753,7 +753,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-254" target="GTG6F6J4O82Cw8e9boyh-256">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-254" value="销售许可证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-254" value="销售许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1641" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-256" target="GTG6F6J4O82Cw8e9boyh-258">
@@ -766,7 +766,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-258" value="项目亮相" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1841" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-260" target="GTG6F6J4O82Cw8e9boyh-262">
           <mxGeometry relative="1" as="geometry" />
@@ -787,7 +787,7 @@
           <mxGeometry x="1840" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-268" value="销售清盘" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1841" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-270" target="GTG6F6J4O82Cw8e9boyh-272">
           <mxGeometry relative="1" as="geometry" />
@@ -814,7 +814,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-276" value="内外檐装修" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1841" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-278" target="GTG6F6J4O82Cw8e9boyh-280">
           <mxGeometry relative="1" as="geometry" />
@@ -915,7 +915,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-310" target="GTG6F6J4O82Cw8e9boyh-312">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-310" value="住宅准入证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-310" value="住宅准入证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1841" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-315" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-312" target="GTG6F6J4O82Cw8e9boyh-314">
@@ -996,7 +996,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-338" target="GTG6F6J4O82Cw8e9boyh-340">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-338" value="产权证办理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-338" value="产权证办理" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1641" y="3730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GTG6F6J4O82Cw8e9boyh-343" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTG6F6J4O82Cw8e9boyh-340" target="GTG6F6J4O82Cw8e9boyh-342">
@@ -1005,7 +1005,7 @@
         <mxCell id="GTG6F6J4O82Cw8e9boyh-340" value="分户土地证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1641" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GTG6F6J4O82Cw8e9boyh-342" value="土地证办理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GTG6F6J4O82Cw8e9boyh-342" value="土地证办理" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1841" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
