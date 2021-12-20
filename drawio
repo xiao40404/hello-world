@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:13:26.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="xcSJP13gqNNITRZJiYZj" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T04:11:17.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="0h3L4QRe1wdBjREuSl6l" version="15.9.6" type="github">
   <diagram id="Rw1tucRjNC-tzBrsc0h_" name="Page-1">
-    <mxGraphModel dx="1385" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z8av6Miflyc_HgpMq13H-199" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="410" y="45" width="200" height="1180" as="geometry" />
+          <mxGeometry x="420" y="45" width="200" height="925" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="200" height="1180" as="geometry" />
+          <mxGeometry x="30" y="40" width="200" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WvOAolYsXny6lTkRjb9e-31" target="WvOAolYsXny6lTkRjb9e-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-31" target="Z8av6Miflyc_HgpMq13H-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-31" value="申报村进行申报意向表决" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -35,6 +38,9 @@
           <mxGeometry x="50" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WvOAolYsXny6lTkRjb9e-50" target="WvOAolYsXny6lTkRjb9e-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-50" target="Z8av6Miflyc_HgpMq13H-234">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-50" value="市规划和自然资源局转送市住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -77,6 +83,9 @@
         <mxCell id="WvOAolYsXny6lTkRjb9e-74" value="报市规划和自然资源局审查，按程序将非住宅用途调整为住宅（租赁住房）用地" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WvOAolYsXny6lTkRjb9e-78" target="Z8av6Miflyc_HgpMq13H-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-78" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -87,28 +96,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-87" value="村集体向市规划和自然资源局行政主管部门申办&lt;b&gt;规划许可、供地手续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1494.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WvOAolYsXny6lTkRjb9e-91" target="WvOAolYsXny6lTkRjb9e-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-91" value="属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1604.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WvOAolYsXny6lTkRjb9e-93" target="WvOAolYsXny6lTkRjb9e-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-93" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1704.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WvOAolYsXny6lTkRjb9e-95" target="WvOAolYsXny6lTkRjb9e-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-95" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1804.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WvOAolYsXny6lTkRjb9e-97" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1904.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-17" target="WvOAolYsXny6lTkRjb9e-40">
           <mxGeometry relative="1" as="geometry" />
@@ -120,9 +129,12 @@
           <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-32" value="&lt;a href=&quot;https://www.gdzwfw.gov.cn/portal/v2/guide/11440111007502599J4442112127001&quot;&gt;立项用地规划许可阶段并联审批-广东政务服务网 (gdzwfw.gov.cn)&lt;/a&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="549" y="1494.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-36" target="Z8av6Miflyc_HgpMq13H-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-36" target="Z8av6Miflyc_HgpMq13H-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-36" value="申报村进行申报意向表决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,111 +163,99 @@
         <mxCell id="Z8av6Miflyc_HgpMq13H-46" value="村集体&lt;b&gt;按市城市更新有关规定&lt;/b&gt;取得城市更新部门有效的旧村改造方案批复文件" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-48" target="Z8av6Miflyc_HgpMq13H-50">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-48" target="Z8av6Miflyc_HgpMq13H-250">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-48" value="市规划和自然资源局、住房城乡建设局纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-48" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-50" target="Z8av6Miflyc_HgpMq13H-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-50" value="村集体自行确定项目建设运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-52" target="Z8av6Miflyc_HgpMq13H-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-52" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="795" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-53" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-56" target="Z8av6Miflyc_HgpMq13H-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-56" value="村集体按市城市更新有关规定完善用地手续" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-56" target="Z8av6Miflyc_HgpMq13H-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-56" value="村集体按市城市更新有关规定完善用地手续" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-61" target="Z8av6Miflyc_HgpMq13H-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1910" y="220" as="sourcePoint" />
+            <mxPoint x="619" y="1694.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-61" target="Z8av6Miflyc_HgpMq13H-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-61" value="规划设计阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="1624.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-67" target="Z8av6Miflyc_HgpMq13H-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-67" value="设计前期工作" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="769" y="1624.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-69" target="Z8av6Miflyc_HgpMq13H-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2297" y="260" />
-              <mxPoint x="2297" y="260" />
+              <mxPoint x="1006" y="1734.5" />
+              <mxPoint x="1006" y="1734.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-69" value="方案设计组织" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2237" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="946" y="1624.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-71" target="Z8av6Miflyc_HgpMq13H-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-71" value="项目指标确认" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2237" y="255.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="946" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-72" target="Z8av6Miflyc_HgpMq13H-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-72" value="施工图设计组织" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="255.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="769" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-75" target="Z8av6Miflyc_HgpMq13H-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1909" y="735.5" as="targetPoint" />
+            <mxPoint x="618" y="2210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-75" value="施工准备阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="1894.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2250" y="450" as="targetPoint" />
+            <mxPoint x="959" y="1924.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-77" value="建设工程规划许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2061" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1894.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z8av6Miflyc_HgpMq13H-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2310" y="480" as="sourcePoint" />
+            <mxPoint x="1019" y="1954.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-81" target="Z8av6Miflyc_HgpMq13H-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-81" value="施工许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="959" y="2014.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-83" target="Z8av6Miflyc_HgpMq13H-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-83" value="企业投资项目备案" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="759" y="2014.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-84" value="开工前期工作" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2049" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="758" y="2144.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-87" target="Z8av6Miflyc_HgpMq13H-89">
           <mxGeometry relative="1" as="geometry" />
@@ -264,28 +264,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-87" value="工程建设阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-89" target="Z8av6Miflyc_HgpMq13H-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-89" value="项目开工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-91" target="Z8av6Miflyc_HgpMq13H-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-91" value="基础施工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-93" target="Z8av6Miflyc_HgpMq13H-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-93" value="主体施工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-94" value="变更签证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-97" target="Z8av6Miflyc_HgpMq13H-99">
           <mxGeometry relative="1" as="geometry" />
@@ -294,46 +294,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-97" value="项目销售阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-99" target="Z8av6Miflyc_HgpMq13H-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-99" value="销售许可证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-101" target="Z8av6Miflyc_HgpMq13H-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-101" value="项目亮相前准备" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-103" target="Z8av6Miflyc_HgpMq13H-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-103" value="项目亮相" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-105" target="Z8av6Miflyc_HgpMq13H-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-105" value="项目开盘前准备" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-107" target="Z8av6Miflyc_HgpMq13H-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-107" value="项目开盘" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-109" target="Z8av6Miflyc_HgpMq13H-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-109" value="日常销售" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-110" value="销售清盘" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1810" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-113" target="Z8av6Miflyc_HgpMq13H-115">
           <mxGeometry relative="1" as="geometry" />
@@ -342,106 +342,106 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-113" value="工程建设阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1924" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="2554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-115" target="Z8av6Miflyc_HgpMq13H-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-115" value="&amp;nbsp;外檐装修材料确定" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1924" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="2554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-117" target="Z8av6Miflyc_HgpMq13H-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-117" value="甲供、甲分包材料的招标" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1924" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="2554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-119" target="Z8av6Miflyc_HgpMq13H-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-119" value="内外檐装修" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-121" target="Z8av6Miflyc_HgpMq13H-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-121" value="水、暖、电安装" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-123" target="Z8av6Miflyc_HgpMq13H-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-123" value="智能化" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-125" target="Z8av6Miflyc_HgpMq13H-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-125" value="通风与空调" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-127" target="Z8av6Miflyc_HgpMq13H-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-127" value="电梯安装" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2280" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-129" target="Z8av6Miflyc_HgpMq13H-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-129" value="毛坯房竣工验收备案" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2280" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-131" target="Z8av6Miflyc_HgpMq13H-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-131" value="毛坯房竣工验收" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2400" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-133" target="Z8av6Miflyc_HgpMq13H-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-133" value="成品房装修" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2400" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="3030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-135" target="Z8av6Miflyc_HgpMq13H-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-135" value="成品房验收备案" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-137" target="Z8av6Miflyc_HgpMq13H-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-137" value="成品房竣工结算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-139" target="Z8av6Miflyc_HgpMq13H-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-139" value="配套手续及施工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-141" target="Z8av6Miflyc_HgpMq13H-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-141" value="配套施工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-143" target="Z8av6Miflyc_HgpMq13H-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-143" value="环境施工" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-145" target="Z8av6Miflyc_HgpMq13H-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-145" value="竣工结算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-146" value="结算稽核" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="2890" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-149" target="Z8av6Miflyc_HgpMq13H-151">
           <mxGeometry relative="1" as="geometry" />
@@ -450,133 +450,626 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-149" value="竣工入住阶段" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3010" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="3640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-151" target="Z8av6Miflyc_HgpMq13H-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-151" value="室内空气检测" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3010" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="3640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-153" target="Z8av6Miflyc_HgpMq13H-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-153" value="住宅准入证" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3010" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="3640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-155" target="Z8av6Miflyc_HgpMq13H-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-155" value="入住准备" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3123" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="3753" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-157" target="Z8av6Miflyc_HgpMq13H-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-157" value="楼牌标识" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3123" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="3753" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-159" target="Z8av6Miflyc_HgpMq13H-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-159" value="物业收房" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-161" target="Z8av6Miflyc_HgpMq13H-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-161" value="办理入住手续" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-162" value="售后维修" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="3380" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-164" target="Z8av6Miflyc_HgpMq13H-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-164" value="售后及移交" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3510" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="4140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-166" target="Z8av6Miflyc_HgpMq13H-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-166" value="投诉处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3510" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="4140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-168" target="Z8av6Miflyc_HgpMq13H-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-168" value="装修管理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3510" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="4140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-170" target="Z8av6Miflyc_HgpMq13H-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-170" value="供暖" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3650" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="4280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-172" target="Z8av6Miflyc_HgpMq13H-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-172" value="通煤气" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3650" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="4280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-174" target="Z8av6Miflyc_HgpMq13H-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-174" value="移交物业" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3790" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="4420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-176" target="Z8av6Miflyc_HgpMq13H-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-176" value="产品问题总结及反馈" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3790" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="4420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-178" target="Z8av6Miflyc_HgpMq13H-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-178" value="初始登记" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="4560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-180" target="Z8av6Miflyc_HgpMq13H-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-180" value="产权证办理" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="4560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-182" target="Z8av6Miflyc_HgpMq13H-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-182" value="分户土地证" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="4070" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-183" value="土地证办理" style="whiteSpace=wrap;html=1;fillColor=#FF9999;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="4070" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-186" value="建设用地（含临时用地）规划许可证核发https://www.gdzwfw.gov.cn/portal/v2/guide/11440100MB2C91103Q344011203400105" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="15" width="80" height="80" as="geometry" />
+          <mxGeometry x="829" y="1489.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-189" value="规划放线" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="769" y="1824.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-197" value="利用结余存量宅基地开展试点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-198" value="利用旧村改造中保留集体用地性质的用地开展试点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="15" width="200" height="30" as="geometry" />
+        <mxCell id="Z8av6Miflyc_HgpMq13H-198" value="尚未批复旧村改造方案的改造用地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-200" value="同意后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="116" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-201" value="同意后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="121" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-202" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-202" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿、是否需纳入整村改造经济平衡和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="245" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-204" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;包括村民意向表决情况、&lt;b&gt;控制性详细规划调整论证意见&lt;/b&gt;和结合旧村周边产业布局、人口就业、交通、公建配套等情况，对项目区位、周边住房需求、资金来源、村集体建设意愿和后续监管措施等内容进行可行性论证分析报告的意见，并明确纳入试点的集体土地不得转为国有建设用地&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="140" width="350" height="120" as="geometry" />
+          <mxGeometry x="669" y="120" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-206" value="&lt;span&gt;属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="467.5" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="960" y="45" width="200" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-209" value="已批复旧村改造方案的村民复建房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-210" target="Z8av6Miflyc_HgpMq13H-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-210" value="村集体取得有效的旧村改造方案批复文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-211">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-211" value="村集体按市城市更新有关规定完善改造项目供地手续" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-215" target="Z8av6Miflyc_HgpMq13H-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-215" target="Z8av6Miflyc_HgpMq13H-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-215" value="申报村进行申报意向表决" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-217" target="Z8av6Miflyc_HgpMq13H-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-217" target="Z8av6Miflyc_HgpMq13H-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-217" value="村集体向属地区政府提请纳入试点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-219" value="明确纳入租赁住房的建筑面积" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-223" value="明确项目范围、面积等" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="45" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-226" value="明确项目范围、面积等" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-228" value="持旧村改造方案、村民表决意见" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-230" target="Z8av6Miflyc_HgpMq13H-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-230" value="属地区政府审核后报市规划和自然资源局、住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-232" target="Z8av6Miflyc_HgpMq13H-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-232" value="形成意见后按程序报市政府" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-234" value="住建：对项目区域租赁住房需求、租赁价格和是否需纳入整村改造经济平衡提出意见" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="557.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-256" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-236" target="Z8av6Miflyc_HgpMq13H-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-236" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-239" target="Z8av6Miflyc_HgpMq13H-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-239" target="Z8av6Miflyc_HgpMq13H-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-239" value="村集体向市规划和自然资源局行政主管部门申办&lt;b&gt;规划许可、供地手续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-241" value="属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-243" target="Z8av6Miflyc_HgpMq13H-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-243" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-245" target="Z8av6Miflyc_HgpMq13H-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-245" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-246" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-250" target="Z8av6Miflyc_HgpMq13H-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-250" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-252" target="Z8av6Miflyc_HgpMq13H-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-252" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-253" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-255" target="Z8av6Miflyc_HgpMq13H-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-255" value="集体建设用地使用权人自行确定运营主体" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-257" target="Z8av6Miflyc_HgpMq13H-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-257" target="Z8av6Miflyc_HgpMq13H-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-257" value="项目报建协商" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-259" value="运营企业在项目规划报建阶段与村集体协商优化租赁住房的户型、布局等" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-267" target="Z8av6Miflyc_HgpMq13H-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-267" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-268" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-272" value="已批准改造方案的村民复建物业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-273" value="利用经审批的村经济发展用地（含留用地）开展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1370" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-283" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="45" width="200" height="1715" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-286" target="Z8av6Miflyc_HgpMq13H-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-286">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-286" value="申报村进行申报意向表决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-288" target="Z8av6Miflyc_HgpMq13H-311">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-288" value="村集体向属地区政府提请申报试点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-290" target="Z8av6Miflyc_HgpMq13H-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-290" value="属地区政府审核项目试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-292" target="Z8av6Miflyc_HgpMq13H-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-292" value="属地区政府将试点方案报市规划和自然资源局" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-295" target="Z8av6Miflyc_HgpMq13H-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-294" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-295">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-295" value="市规划和自然资源局转送市住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-297" target="Z8av6Miflyc_HgpMq13H-300">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1389.9999999999966" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-297" value="市政府审定项目试点方案（批复即视同批准供地方案）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-298" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-300" target="Z8av6Miflyc_HgpMq13H-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-300" target="Z8av6Miflyc_HgpMq13H-307">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="935" />
+              <mxPoint x="1540" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-300" value="是否与现行控规矛盾？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="895" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-302" target="Z8av6Miflyc_HgpMq13H-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-302" value="属地区政府组织开展控规调整工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-303" value="是" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="995" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-304" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-305" target="Z8av6Miflyc_HgpMq13H-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-305" value="报市规划和自然资源局审查，按程序将非住宅用途调整为住宅（租赁住房）用地" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-307" target="Z8av6Miflyc_HgpMq13H-315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-307" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-308" value="否" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="995" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-311" target="Z8av6Miflyc_HgpMq13H-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-311" target="Z8av6Miflyc_HgpMq13H-322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-311" value="村集体委托有资质的规划编制机构编制试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-312" value="明确项目范围、面积等" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="154.5" width="140" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-315" target="Z8av6Miflyc_HgpMq13H-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-315" target="Z8av6Miflyc_HgpMq13H-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-315" value="村集体向市规划和自然资源局行政主管部门申办&lt;b&gt;规划许可、供地手续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-316" value="属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-317" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-318" target="Z8av6Miflyc_HgpMq13H-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-318" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-320" target="Z8av6Miflyc_HgpMq13H-321">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-320" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-321" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-322" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿、是否需纳入整村改造经济平衡和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="360" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-323" value="住建：对项目区域租赁住房需求、租赁价格和是否需纳入整村改造经济平衡提出意见&lt;br&gt;规资：对项目规划调整和留用地不同开发模式进行收益测算" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="646.25" width="230" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-325" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-324" target="Z8av6Miflyc_HgpMq13H-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-324" value="申报村取得集体建设用地使用权批准文件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-328" value="利用经审批的集体土地性质住宅用地开展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1840" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-329" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="40" width="200" height="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-330" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-332" target="Z8av6Miflyc_HgpMq13H-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-332">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-332" value="申报村进行申报意向表决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-333" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-334" target="Z8av6Miflyc_HgpMq13H-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-334" value="村集体向属地区政府提请申报试点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-336" target="Z8av6Miflyc_HgpMq13H-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-336" value="属地区政府审核项目试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-338" target="Z8av6Miflyc_HgpMq13H-341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-338" value="属地区政府将试点方案报市规划和自然资源局" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-339" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-341" target="Z8av6Miflyc_HgpMq13H-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-340" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-341">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-341" value="市规划和自然资源局转送市住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-343" value="市政府审定项目试点方案（批复即视同批准供地方案）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-350" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z8av6Miflyc_HgpMq13H-353">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1930" y="845" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-353" target="Z8av6Miflyc_HgpMq13H-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-353" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-355" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-357" target="Z8av6Miflyc_HgpMq13H-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-356" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-357" target="Z8av6Miflyc_HgpMq13H-368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-357" value="村集体委托有资质的规划编制机构编制试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-358" value="明确项目范围、面积等" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="149.5" width="140" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-359" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-361" target="Z8av6Miflyc_HgpMq13H-362">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-361" target="Z8av6Miflyc_HgpMq13H-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-361" value="村集体向市规划和自然资源局行政主管部门申办&lt;b&gt;规划许可、供地手续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-362" value="属地区规划和自然资源局行政主管部门在规划许可、供地文件注明土地用途限制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-363" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-364" target="Z8av6Miflyc_HgpMq13H-366">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-364" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-365" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-366" target="Z8av6Miflyc_HgpMq13H-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-366" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-367" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-368" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿、是否需纳入整村改造经济平衡和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="355" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-369" value="住建：对项目区域租赁住房需求、租赁价格和是否需纳入整村改造经济平衡提出意见&lt;br&gt;规资：对项目形成存量用地时间和留用地不同开发模式进行收益测算" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="641.25" width="230" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-370" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-371" target="Z8av6Miflyc_HgpMq13H-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-371" value="申报村取得合法有效留用地指标" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-372" value="利用依法流转后的集体建设用地开展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2310" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-373" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="40" width="200" height="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-376" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-374" target="Z8av6Miflyc_HgpMq13H-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-378" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-374" target="Z8av6Miflyc_HgpMq13H-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-374" value="取得集体建设用地使用权" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-375" value="按照省、市集体建设用地使用权流转有关规定依法取得" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-381" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-377" target="Z8av6Miflyc_HgpMq13H-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-377" value="流转后集体土地使用权人向属地区政府提请申报试点" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-382" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-379" target="Z8av6Miflyc_HgpMq13H-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-392" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-379" target="Z8av6Miflyc_HgpMq13H-383">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-379" value="委托有资质的规划编制机构编制试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-380" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿、是否需纳入整村改造经济平衡和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="240" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-393" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-383" target="Z8av6Miflyc_HgpMq13H-384">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-383" value="属地区政府审核项目试点方案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-395" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-384" target="Z8av6Miflyc_HgpMq13H-385">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-384" value="属地区政府将试点方案报市规划和自然资源局" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-396" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-385" target="Z8av6Miflyc_HgpMq13H-386">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-403" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-385" target="Z8av6Miflyc_HgpMq13H-402">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-385" value="市规划和自然资源局转送市住房城乡建设局审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-397" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-386" target="Z8av6Miflyc_HgpMq13H-387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-386" value="市政府审定项目试点方案（批复即视同批准供地方案）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-398" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-387" target="Z8av6Miflyc_HgpMq13H-388">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-387" value="市规划和自然资源局、住房城乡建设局将项目纳入规划、计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-399" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-388" target="Z8av6Miflyc_HgpMq13H-389">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-388" value="村集体向市规划和自然资源局行政主管部门申办&lt;b&gt;规划许可、供地手续&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-400" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-389" target="Z8av6Miflyc_HgpMq13H-390">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-389" value="村集体自行确定项目建设、运营方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-401" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-390" target="Z8av6Miflyc_HgpMq13H-391">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-390" value="项目建成后整体确权给村集体土地使用权人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-391" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-402" value="&lt;span&gt;住建：对项目区域租赁住房需求、租赁价格和是否需纳入整村改造经济平衡提出意见&lt;/span&gt;&lt;br&gt;&lt;span&gt;规资：对项目规划调整进行审查&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="550" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-404" value="已纳入利用集体建设用地建设租赁住房试点且已取得项目供地文件的项目流转程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2810" y="10" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8av6Miflyc_HgpMq13H-405" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="2825" y="40" width="200" height="1410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
