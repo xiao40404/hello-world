@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T04:14:38.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XlNaM2TUKP3FNuq5eT8A" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T04:16:45.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jNDJYGTLdImOhSgbOwyS" version="15.9.6" type="github">
   <diagram id="Rw1tucRjNC-tzBrsc0h_" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,8 +563,8 @@
         <mxCell id="Z8av6Miflyc_HgpMq13H-197" value="利用结余存量宅基地开展试点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-198" value="尚未批复旧村改造方案的改造用地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" width="200" height="30" as="geometry" />
+        <mxCell id="Z8av6Miflyc_HgpMq13H-198" value="尚未批复旧村改造方案的改造用地办理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="409" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-202" value="&lt;span style=&quot;font-size: 9.5pt ; color: #323232&quot;&gt;重点对项目区位、周边住房需求、资金来源、村集体建设意愿、是否需纳入整村改造经济平衡和后续监管措施等可行性进行论证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="245" width="200" height="90" as="geometry" />
@@ -578,7 +578,7 @@
         <mxCell id="Z8av6Miflyc_HgpMq13H-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="960" y="45" width="200" height="1180" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-209" value="已批复旧村改造方案的村民复建房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-209" value="已批复旧村改造方案的村民复建房办理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="10" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z8av6Miflyc_HgpMq13H-210" target="Z8av6Miflyc_HgpMq13H-211">
@@ -715,7 +715,7 @@
         <mxCell id="Z8av6Miflyc_HgpMq13H-268" value="租赁平台备案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z8av6Miflyc_HgpMq13H-272" value="已批准改造方案的村民复建物业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Z8av6Miflyc_HgpMq13H-272" value="已批准改造方案的村民复建物业办理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="20" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8av6Miflyc_HgpMq13H-273" value="利用经审批的村经济发展用地（含留用地）开展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
